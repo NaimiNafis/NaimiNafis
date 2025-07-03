@@ -6,7 +6,7 @@ Undergraduate Researcher @ [AI Software Engineering Lab (知能ソフトラボ)]
 
 ---
 
-* 🚀 **Currently:** Mastering Full-Stack JavaScript with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript).
+* 🚀 **Currently:** Learning Full-Stack JavaScript with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript).
 * 🤝 **Open to collaborating on:** Web Development & Machine Learning Projects.
 * 📫 **Reach me:** [Email](mailto:naiminafis@gmail.com) | [Portfolio](https://naiminafis.github.io/portfolio/)
 
