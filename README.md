@@ -1,6 +1,6 @@
 **Hi, I'm Naimi👋**
 
-BSc (Hons) Computer Science @ **Kyoto Institute of Technology**
+BSc Computer Science @ **Kyoto Institute of Technology**
 
 Undergraduate Researcher @ [AI Software Engineering Lab (知能ソフトラボ)](https://kit-isel.github.io/)
 
