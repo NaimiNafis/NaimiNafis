@@ -12,7 +12,7 @@ Undergraduate Researcher @ [AI Software Engineering Lab (知能ソフトラボ)]
 
 ## 🔥 My GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=NaimiNafis&show_icons=true&theme=graywhite)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NaimiNafis&show_icons=true&theme=graywhite&rank_icon=github)<br/>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
